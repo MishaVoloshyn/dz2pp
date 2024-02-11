@@ -139,8 +139,13 @@
     <ResourceCompile Include="WindowsProject3.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\Project3\signup.ico" />
     <Image Include="small.ico" />
     <Image Include="WindowsProject3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Project3\Keyblade question mark.cur" />
+    <None Include="..\Project3\Keyblade.cur" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -45,5 +45,16 @@
     <Image Include="WindowsProject3.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
+    <Image Include="..\Project3\signup.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Project3\Keyblade question mark.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="..\Project3\Keyblade.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
   </ItemGroup>
 </Project>
